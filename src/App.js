@@ -1,8 +1,8 @@
 import './App.css';
-import HomePage from './HomePage';
+import Home from './pages/home/Home';
 function App() {
   return (
-    <div><HomePage /></div>
+    <div><Home /></div>
   );
 }
 
